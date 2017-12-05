@@ -1,7 +1,7 @@
 public class test {
 
     public void test4(){
-
+        System.out.println();
     }
 
 
